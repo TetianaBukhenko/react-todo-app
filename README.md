@@ -1,26 +1,22 @@
 # Todo app
-A simple Todo application built with React, JavaScript, and CSS, styled with Bulma, and enhanced with animations using React Transition Group.
+A simple Todo application built with React, JavaScript, and CSS, styled with Bulma, and enhanced with animations using React Transition Group. The app interacts with an API to save, update, and delete todos, providing a dynamic and persistent user experience.
 
 ## Demo
+https://react-todo-app-lac-chi.vercel.app/
 
-
-
-
-## Technologies
-React: Component-based architecture for building the UI.
-JavaScript: Provides application logic.
-CSS: For custom styles.
-Bulma: A modern CSS framework for clean and responsive design.
-React Transition Group: For animations during element entry, exit, and state transitions.
+## Tech Stack
+React, JavaScript, CSS, Bulma, React Transition Group, REST API.
 
 ## Features
-1. Add Todo: Quickly add new tasks to your todo list.
-2. Mark as Completed: Toggle tasks between completed and pending states.
-3. Delete Todo: Remove tasks from the list.
-Responsive Design: The app is fully responsive and adapts to different screen sizes.
-Smooth Animations: Add and remove todos with beautiful animations provided by React Transition Group.
+1. Add Todo: Create new tasks and save them to the API.
+2. Edit Todo: Update existing tasks directly from the UI.
+3. Mark as Completed: Toggle tasks between completed and pending states.
+4. Delete Todo: Remove tasks from the list and API.
+5. Persistent Data: All changes are synced with the API for persistence.
+6. Responsive Design: Adapted for all screen sizes using Bulma.
+7. Smooth Animations: Dynamic animations for adding, editing, and deleting todos using React Transition Group.
 
-## 🔗 Links
+## 🔗 Link
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-bukhenko-9898871a5/)
 
@@ -31,13 +27,13 @@ Smooth Animations: Add and remove todos with beautiful animations provided by Re
 Clone the project
 
 ```bash
-  git clone https://github.com/TetianaBukhenko/todo-app-react.git
+  https://github.com/TetianaBukhenko/react-todo-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd todo-app-react
+  cd react-todo-app
 ```
 
 Install dependencies
